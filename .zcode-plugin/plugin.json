@@ -1,0 +1,20 @@
+{
+  "name": "action-remix",
+  "version": "0.1.0",
+  "description": "爆款桌拍视频拆解×动作标签素材库×组合成片引擎：拉热门视频→切镜头→打动作标签→提文案结构→按配方组合自拍素材批量出片（原创）。依赖官方 video-agent-kit 插件的剪辑工具。",
+  "author": {
+    "name": "longxiaking"
+  },
+  "license": "MIT",
+  "keywords": [
+    "douyin",
+    "video-teardown",
+    "action-tags",
+    "remix",
+    "ecommerce-video"
+  ],
+  "description_i18n": {
+    "en": "Hot-video teardown x action-tag clip library x composition engine: fetch trending videos, detect shots, tag hand actions, extract copywriting structure, then compose self-shot clips into original batch videos.",
+    "zh-CN": "爆款桌拍视频拆解×动作标签素材库×组合成片引擎：拉热门视频→切镜头→打动作标签→提文案结构→按配方组合自拍素材批量出片（原创）。"
+  }
+}
